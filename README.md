@@ -1,2 +1,3 @@
 # Hello-world
-I am making changes to these
+
+It is nice to learn about the git hub 
